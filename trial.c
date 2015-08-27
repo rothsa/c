@@ -3,8 +3,8 @@
 /* print Fahrenheit-Celsius table */
 main()
 {
-    int fahr, celcius;
-    int lwer, upper, step;
+    int fahr, celsius;
+    int lower, upper, step;
 
     lower = 0;    /* lower limit of temp table */
     upper = 300;  /* upper limit */
